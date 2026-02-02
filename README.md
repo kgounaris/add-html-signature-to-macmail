@@ -2,7 +2,7 @@
 
 This guide shows you how to replace an Apple Mail signature's contents with your own **HTML** by editing Mail's signature file on disk.
 
-> **Why this works:** Apple Mail stores signatures as files under your user Library. When you edit the right file, Mail will load your updated HTML into the signature you created.
+> Apple Mail stores signatures as files under your user Library. When you edit the right file, Mail will load your updated HTML into the signature you created.
 
 ---
 
